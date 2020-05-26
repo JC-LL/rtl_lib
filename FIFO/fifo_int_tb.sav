@@ -1,0 +1,55 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu May  7 20:06:04 2020
+[*]
+[dumpfile] "/home/jcll/JCLL/dev/EDA-ESL/newage_v2/tests/test_vhdl/TEST_4_PIPELINE/MANO/fifo_int_tb.ghw"
+[dumpfile_mtime] "Thu May  7 20:04:59 2020"
+[dumpfile_size] 1797
+[savefile] "/home/jcll/JCLL/dev/EDA-ESL/newage_v2/tests/test_vhdl/TEST_4_PIPELINE/MANO/fifo_int_tb.sav"
+[timestart] 0
+[size] 1366 743
+[pos] -1 -1
+*-27.368635 165000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.fifo_int_tb.
+[treeopen] top.fifo_int_tb.dut.
+[treeopen] top.fifo_int_tb.dut.regs.
+[sst_width] 212
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 460
+@28
+top.fifo_int_tb.pop
+top.fifo_int_tb.push
+@420
+top.fifo_int_tb.running
+@28
+top.fifo_int_tb.reset_n
+top.fifo_int_tb.clk
+@22
+#{top.fifo_int_tb.datain[7:0]} top.fifo_int_tb.datain[7] top.fifo_int_tb.datain[6] top.fifo_int_tb.datain[5] top.fifo_int_tb.datain[4] top.fifo_int_tb.datain[3] top.fifo_int_tb.datain[2] top.fifo_int_tb.datain[1] top.fifo_int_tb.datain[0]
+#{top.fifo_int_tb.dut.regs[0][7:0]} top.fifo_int_tb.dut.regs[0][7] top.fifo_int_tb.dut.regs[0][6] top.fifo_int_tb.dut.regs[0][5] top.fifo_int_tb.dut.regs[0][4] top.fifo_int_tb.dut.regs[0][3] top.fifo_int_tb.dut.regs[0][2] top.fifo_int_tb.dut.regs[0][1] top.fifo_int_tb.dut.regs[0][0]
+#{top.fifo_int_tb.dut.regs[1][7:0]} top.fifo_int_tb.dut.regs[1][7] top.fifo_int_tb.dut.regs[1][6] top.fifo_int_tb.dut.regs[1][5] top.fifo_int_tb.dut.regs[1][4] top.fifo_int_tb.dut.regs[1][3] top.fifo_int_tb.dut.regs[1][2] top.fifo_int_tb.dut.regs[1][1] top.fifo_int_tb.dut.regs[1][0]
+#{top.fifo_int_tb.dut.regs[2][7:0]} top.fifo_int_tb.dut.regs[2][7] top.fifo_int_tb.dut.regs[2][6] top.fifo_int_tb.dut.regs[2][5] top.fifo_int_tb.dut.regs[2][4] top.fifo_int_tb.dut.regs[2][3] top.fifo_int_tb.dut.regs[2][2] top.fifo_int_tb.dut.regs[2][1] top.fifo_int_tb.dut.regs[2][0]
+#{top.fifo_int_tb.dut.regs[3][7:0]} top.fifo_int_tb.dut.regs[3][7] top.fifo_int_tb.dut.regs[3][6] top.fifo_int_tb.dut.regs[3][5] top.fifo_int_tb.dut.regs[3][4] top.fifo_int_tb.dut.regs[3][3] top.fifo_int_tb.dut.regs[3][2] top.fifo_int_tb.dut.regs[3][1] top.fifo_int_tb.dut.regs[3][0]
+#{top.fifo_int_tb.dut.regs[4][7:0]} top.fifo_int_tb.dut.regs[4][7] top.fifo_int_tb.dut.regs[4][6] top.fifo_int_tb.dut.regs[4][5] top.fifo_int_tb.dut.regs[4][4] top.fifo_int_tb.dut.regs[4][3] top.fifo_int_tb.dut.regs[4][2] top.fifo_int_tb.dut.regs[4][1] top.fifo_int_tb.dut.regs[4][0]
+#{top.fifo_int_tb.dut.dataout[7:0]} top.fifo_int_tb.dut.dataout[7] top.fifo_int_tb.dut.dataout[6] top.fifo_int_tb.dut.dataout[5] top.fifo_int_tb.dut.dataout[4] top.fifo_int_tb.dut.dataout[3] top.fifo_int_tb.dut.dataout[2] top.fifo_int_tb.dut.dataout[1] top.fifo_int_tb.dut.dataout[0]
+@28
+top.fifo_int_tb.full
+top.fifo_int_tb.empty
+@22
+#{top.fifo_int_tb.dut.dataout[7:0]} top.fifo_int_tb.dut.dataout[7] top.fifo_int_tb.dut.dataout[6] top.fifo_int_tb.dut.dataout[5] top.fifo_int_tb.dut.dataout[4] top.fifo_int_tb.dut.dataout[3] top.fifo_int_tb.dut.dataout[2] top.fifo_int_tb.dut.dataout[1] top.fifo_int_tb.dut.dataout[0]
+@28
+top.fifo_int_tb.dut.full
+top.fifo_int_tb.dut.empty
+@420
+top.fifo_int_tb.dut.addr
+@20000
+-
+@8420
+top.fifo_int_tb.dut.level
+@20000
+-
+-
+[pattern_trace] 1
+[pattern_trace] 0
